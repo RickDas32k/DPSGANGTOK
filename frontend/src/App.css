@@ -1,0 +1,41 @@
+/* Global styles */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom animations */
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fade-in {
+    animation: fade-in 1s ease-out;
+}
+
+/* Hover effects for interactive elements */
+button,
+a {
+    transition: transform 0.2s ease, opacity 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+}
+
+button:hover:not(:disabled),
+a:hover {
+    transform: translateY(-2px);
+}
+
+/* Image loading optimization */
+img {
+    max-width: 100%;
+    height: auto;
+}
