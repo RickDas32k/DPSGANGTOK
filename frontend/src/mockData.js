@@ -160,9 +160,9 @@ It is our constant effort and strivance, using our effective management system f
 };
 
 export const principalMessage = {
-  name: "Dr. Anjali Verma",
+  name: "Dr. Ravi Varma",
   designation: "PRINCIPAL",
-  image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400",
+  image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400",
   message: `Delhi Public School, Gangtok came up to meet the dire need for quality education. It is a well-known fact that the Indian Education system had to carry on in a colonial pattern even after 50 years of Independence until the Central Board of Secondary Education came up with the Indianised pattern of education under the national curriculum framework formed by the NCERT. The objective of my school became pretty clear in a way to bring up students with a national feeling and necessary skills that would lead to effective human resource, keeping in unison with the Constitution of India.
 
 Delhi Public School, Gangtok thus equally emphasizes scholastic and co-scholastic spheres of education in order to bring forth holistic development of an individual. Year after year, students passing out from my school seem to be better positioned in this challenging world in the pursuance of higher education and employability, which truly makes this institution an ideal place for nurturing the young minds full of creativity and values. Furthermore, Delhi Public School, Gangtok is a center of excellence in various fields of academics, science and innovation, creative arts, sports, etc.`
