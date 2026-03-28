@@ -151,8 +151,8 @@ export const galleryImages = [
 ];
 
 export const founderMessage = {
-  name: "Late N. K. Sharma",
-  designation: "FOUNDING FATHER",
+  name: "Mr. Sandeep Killa",
+  designation: "PRO VICE CHAIRMAN",
   image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400",
   message: `Right from the inception of the school, it has been a dream come true from my part to see that my institution gradually turning out to be a centre of quality education. Quality education through innovative teaching techniques both in scholastics and Co-scholastics areas coupled with high standards of infrastructural facilities has indeed made this possible. The vision is clear, our school should be able to cater to the purpose of true education for every section of our society and surroundings.
 
