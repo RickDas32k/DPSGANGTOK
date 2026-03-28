@@ -5,10 +5,10 @@ export const schoolInfo = {
   subtitle: "CO-ED. SR. SECONDARY SCHOOL",
   affiliation: "AFFILIATED TO C.B.S.E | VIDE NO. 3430088",
   location: "Gangtok",
-  phone1: "9609358882",
-  phone2: "9609357776",
-  email: "info@dpsgangtok.edu.in",
-  address: "Delhi Public School, Gangtok, Sikkim - 737101"
+  phone1: "9609010901",
+  phone2: "9609010901",
+  email: "info@dpsgangtok.com",
+  address: "5th Mile, Lumsey, opposite S.T.C.S. Gas Godown, Upper Tadong, Tadong, Gangtok, Sikkim 737102"
 };
 
 export const facilities = [
