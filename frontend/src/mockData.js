@@ -171,20 +171,20 @@ Delhi Public School, Gangtok thus equally emphasizes scholastic and co-scholasti
 export const managementTeam = [
   {
     id: 1,
-    name: "Mr. Rajesh Kumar",
-    designation: "SECRETARY",
+    name: "Mr. Kanishk Killa",
+    designation: "DIRECTOR",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400"
   },
   {
     id: 2,
-    name: "Mr. Vikram Singh",
-    designation: "JOINT SECRETARY",
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400"
+    name: "Mrs. Dolly Panday",
+    designation: "HEAD MISTRESS",
+    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400"
   },
   {
     id: 3,
-    name: "Mr. Suresh Thapa",
-    designation: "VICE-PRINCIPAL",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400"
+    name: "Dr. Ravi Varma",
+    designation: "PRINCIPAL",
+    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400"
   }
 ];
