@@ -172,7 +172,7 @@ const Home = () => {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-gray-800 mb-2">MESSAGE FROM THE SECRETARY, JOINT SECRETARY AND VICE PRINCIPAL</h2>
+            <h2 className="text-4xl font-bold text-gray-800 mb-2">MESSAGE FROM THE DIRECTOR, HEAD MISTRESS AND PRINCIPAL</h2>
             <div className="w-24 h-1 bg-red-600 mx-auto"></div>
           </div>
 
