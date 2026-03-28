@@ -83,7 +83,7 @@ const Contact = () => {
                 {/* Map */}
                 <div className="mt-8 rounded-lg overflow-hidden">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14252.089446847935!2d88.60768!3d27.32836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6a56a5805eafb%3A0x73d6132c501c8f20!2sGangtok%2C%20Sikkim!5e0!3m2!1sen!2sin!4v1234567890"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3543.847436047876!2d88.59959!3d27.32837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6a5823f6e4d5d%3A0x8c3f3c3e3d3e3d3e!2s5th%20Mile%2C%20Lumsey%2C%20Upper%20Tadong%2C%20Tadong%2C%20Gangtok%2C%20Sikkim%20737102!5e0!3m2!1sen!2sin!4v1234567890"
                     width="100%"
                     height="250"
                     style={{ border: 0 }}
